@@ -1,0 +1,18 @@
+#Carseats[1:5 , c("Sales" , "ShelveLoc" , "Age")]  c is combine
+
+
+install.packages("dplyr")
+library(dplyr)
+
+
+#filter(Carseats, Sales < 4)
+attach(Carseats)
+filter(Carseats, Sales < 4 , ShelveLoc == "Good")
+filter(Carseats, Sales < 4)
+filter(Carseats, Sales < 4)
+#select selecting a subset of rows
+
+Carseats[1:5 , c("Sales" , "ShelveLoc" , "Age")] #c is combine
+
+
+

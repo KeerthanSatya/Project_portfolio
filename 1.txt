@@ -1,0 +1,25 @@
+driver.class              
+local class
+JLclass0.class
+
+
+JVM- memoer is controlled by JVM
+stacK -local variables
+ heap - objects
+program and address spaces
+
+
+packages?protection levels
+accessor methods(set , get)
+
+
+Private , public , Default - instant method
+
+sub directory - 
+
+
+
+
+
+
+
